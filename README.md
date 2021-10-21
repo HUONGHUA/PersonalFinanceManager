@@ -1,1 +1,2 @@
-# PersonalMoneyMan
+# Personal Finance Manager
+
